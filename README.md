@@ -1,7 +1,7 @@
 
 ![CesarL](https://user-images.githubusercontent.com/99093357/168324573-4a90bbbb-f854-4807-8210-e6184bb68735.svg)
 
-## ¡Hey, I'm Cesar! 🐸
+## Hey, I'm Cesar! 🐸
 
 ### I’m a JR Full-Stack Developer, Design lover and Pentester in progres. 👨🏾‍💻
 
