@@ -1,17 +1,28 @@
 
-![CesarL](https://user-images.githubusercontent.com/99093357/168324573-4a90bbbb-f854-4807-8210-e6184bb68735.svg)
+![CesarL(gradiente)](https://user-images.githubusercontent.com/99093357/172424010-e8648182-623f-4dd6-aec2-ef9ee1cdf55c.svg)
 
 ## Hey, I'm Cesar! 🐸
 
 I’m a **JR Full-Stack Developer**, **Design** lover and **Pentester** in progres. 👨🏾‍💻
 
-I like frogs, toads, and listen music all the time. 🎧
+I like frogs, toads, draw and listen music all the time. 🎧
+
+---
+<a href="https://github.com/CesarGBkR">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=CesarGBkR&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=6e1dac"/>
+</a>
+<br>
+<a href="https://github.com/CesarGBkR">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarGBkR&hide=html,css&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=6e1dac" />
+</a>
+
+---
 
 ### Skills 💡
 <div>
-<img src="https://user-images.githubusercontent.com/99093357/169673164-660be9fa-bdeb-4f55-9fe3-163dda778456.svg" width="125" height="40"/>
-<img src="https://user-images.githubusercontent.com/99093357/169673812-5af20ec0-1829-46d7-a607-a4ebea9a5c89.svg" width="125" height="40"/>
-<img src="https://user-images.githubusercontent.com/99093357/169673819-274550b9-e80f-43b8-bd15-99de75dc3ed4.svg" width="125" height="40"/>
+<img src="https://user-images.githubusercontent.com/99093357/172424740-c065d1ee-4749-4d0b-be24-f3fd5d8777f1.svg" width="125" height="40"/>
+<img src="https://user-images.githubusercontent.com/99093357/172424669-48961b6d-557c-49a5-8b8a-0a678473a467.svg" width="125" height="40"/>
+<img src="https://user-images.githubusercontent.com/99093357/172424522-12681791-aff8-4e5d-bbb0-5918876b312b.svg" width="125" height="40"/>
 </div>
 
 ---
