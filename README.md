@@ -9,12 +9,25 @@ I like frogs, toads, draw and listen music all the time. 🎧
 
 ---
 <a href="https://github.com/CesarGBkR">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=CesarGBkR&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=6e1dac"/>
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarGBkR&hide=html,css&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=f0f8ff" />
+</a>
+<a href="https://github.com/CesarGBkR">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=CesarGBkR&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=f0f8ff"/>
+</a>
+<a href="https://github.com/CesarGBkR/webPortfolioCesar">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CesarGBkR&repo=webPortfolioCesar&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=f0f8ff" />
+</a>
+<a href="https://github.com/CesarGBkR/hackTheOceanBackendModel">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CesarGBkR&repo=hackTheOceanBackendModel&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=f0f8ff" />
+</a>
+<a href="https://github.com/CesarGBkR/playbook">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CesarGBkR&repo=playbook&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=f0f8ff" />
+</a>
+<a href="https://github.com/CesarGBkR/codeChallenge">
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CesarGBkR&repo=codeChallenge&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=f0f8ff" />
 </a>
 <br>
-<a href="https://github.com/CesarGBkR">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarGBkR&hide=html,css&show_icons=true&bg_color=320d4e&title_color=7EE70F&text_color=1FA819&icon_color=6e1dac" />
-</a>
+
 
 ---
 
